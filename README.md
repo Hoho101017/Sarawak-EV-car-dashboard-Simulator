@@ -4,3 +4,4 @@ User FLow Diagram : https://lucid.app/lucidchart/d62eecd6-eaa1-44a2-96a2-5efa4cf
 
 Usablity testing     : [Usability_Testing.pdf](https://github.com/user-attachments/files/33370570/Usability_Testing.pdf)
 
+Access the dashboard prototype: https://evcardashboardhci2.vercel.app/
